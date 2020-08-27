@@ -43,7 +43,6 @@ public class ConsumptionTax extends HttpServlet {
 		//リクエストパラメータの取得
 		String value = request.getParameter("value");
 
-
 	}
 
 }
